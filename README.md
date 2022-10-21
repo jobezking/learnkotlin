@@ -15,3 +15,6 @@ sdk install kotlin
 Install "Kotlin Language" by mathiasfrohlich
 
 Install "Code Runner" by Jun Han
+
+# Install Intellij IDEA Community
+sudo flatpak install flathub com.jetbrains.IntelliJ-IDEA-Community -y
